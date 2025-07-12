@@ -1,0 +1,82 @@
+[
+  {
+    "name": "✨ 기능 제안",
+    "color": "c2e0c6",
+    "description": "기능 추가 또는 개선 제안"
+  },
+  {
+    "name": "❌ 무효한 이슈",
+    "color": "e4e669",
+    "description": "이슈로 보기 어려운 경우 (오류 없음, 재현 불가 등)"
+  },
+  {
+    "name": "❓ 질문",
+    "color": "d876e3",
+    "description": "Further information is requested"
+  },
+  {
+    "name": "상태 : 🕓 확인 대기",
+    "color": "b7e4c7",
+    "description": "triage 또는 검토 전 단계"
+  },
+  {
+    "name": "상태 : 🔍 리뷰 중",
+    "color": "74c69d",
+    "description": "코드 리뷰 또는 QA 중"
+  },
+  {
+    "name": "상태 : 🏗️ 진행 중",
+    "color": "40916c",
+    "description": "담당자가 현재 작업 중"
+  },
+  {
+    "name": "상태 : ✅ 완료",
+    "color": "1b4332",
+    "description": "작업 완료 및 반영 완료됨"
+  },
+  {
+    "name": "🌐 프론트엔드",
+    "color": "1d76db",
+    "description": "사용자 인터페이스 관련 작업"
+  },
+  {
+    "name": "🐞 버그",
+    "color": "d73a4a",
+    "description": "버그 또는 오류 보고"
+  },
+  {
+    "name": "📌 중복 이슈",
+    "color": "eeeeee",
+    "description": "중복된 이슈"
+  },
+  {
+    "name": "📚 문서",
+    "color": "0075ca",
+    "description": "문서 관련 수정 요청"
+  },
+  {
+    "name": "🖥 백엔드",
+    "color": "5319e7",
+    "description": "서버, API, DB 관련 작업"
+  },
+  {
+    "name": "🙋 도움 필요",
+    "color": "bfdadc",
+    "description": "외부 기여자나 팀원에게 도움이 필요한 작업"
+  },
+  {
+    "name": "🚫 해결 안 함",
+    "color": "e99695",
+    "description": "처리 대상이 아님"
+  },
+  {
+    "name": "🛠 인프라",
+    "color": "f9d0c4",
+    "description": "배포, 클라우드, CI/CD"
+  },
+  {
+    "name": "🧹 리팩토링",
+    "color": "cccccc",
+    "description": "코드 구조 개선 작업"
+  }
+]
